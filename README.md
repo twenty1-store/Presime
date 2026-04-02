@@ -2,6 +2,8 @@
 
 Presime is a modern, beautifully designed productivity and focus timer application built for Android. It helps users manage their time effectively using focused sessions, seamless progress tracking, and intuitive statistics.
 
+[Download](https://github.com/twenty1-store/Presime/releases)
+
 ## ✨ Features
 
 - **Focus Timers**: High-quality stopwatch interfaces with pulsing animations during active focus sessions.
